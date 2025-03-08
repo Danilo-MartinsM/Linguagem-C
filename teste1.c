@@ -2,7 +2,11 @@
 
 int main () {
     
-    printf("Olá Mundo!");
+    int x;
+
+    x = 10;
+
+    printf("%d", x);
 
     return 0;
 }
