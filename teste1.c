@@ -15,7 +15,7 @@ int main () {
     strcpy(nome, "Maria Silva");
 
     printf("IDADE = %d\n", idade);
-    printf("SALARIO = %.2lf\n", salario);
+    printf("SALARIO = R$ %.2lf\n", salario);
     printf("ALTURA = %.2lf\n", altura);
     printf("GENERO = %c\n", genero);
     printf("NOME = %s\n", nome);
